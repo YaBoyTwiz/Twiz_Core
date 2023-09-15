@@ -2,7 +2,7 @@
   "id": "Twiz_Core",
   "title": "Twiz_Core mod",
   "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
-  "download": "https://github.com/YaBoyTwiz/Twiz_Core/archive/refs/tags/test.zip"
+  "download": "https://github.com/YaBoyTwiz/Twiz_Core/archive/refs/tags/test.zip",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
