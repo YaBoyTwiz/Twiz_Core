@@ -1,0 +1,10 @@
+{
+  "id": "Twiz_Core",
+  "title": "Twiz_Core mod",
+  "description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  }
+}
